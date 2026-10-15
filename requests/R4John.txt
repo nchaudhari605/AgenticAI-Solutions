@@ -1,0 +1,28 @@
+Prior Authorization Request
+
+Patient Name: John
+DOB: 05/15/1975
+Member ID: HP12345678
+
+Provider Name: Dr. Sarah Johnson
+Provider Email: Sarah@gmail.com
+Provider Phone: 555-666-7777
+
+Requested Service:
+MRI Lumbar Spine Without Contrast
+
+Diagnosis:
+Chronic Lower Back Pain
+Lumbar Radiculopathy
+
+
+Provider Notes:
+Patient reports severe lower back pain for the past 10 weeks.
+Pain radiates down the left leg with numbness and tingling.
+Symptoms interfere with daily activities and sleep.
+Physical examination suggests lumbar nerve root involvement.
+
+Treatment History:
+Completed 8 weeks of physical therapy with minimal improvement.
+Trial of Ibuprofen and Naproxen for pain management without significant relief.
+Symptoms continue despite conservative treatment.

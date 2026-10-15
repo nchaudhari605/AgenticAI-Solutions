@@ -1,0 +1,21 @@
+Prior Authorization Request
+
+Patient Name:Patel
+DOB: 05/15/1975
+Member ID: HP12345678
+
+Provider Name: Dr. Johnson
+Provider Email: Johnson@gmail.com
+Provider Phone: 555-666-7777
+
+Requested Service:
+MRI Lumbar Spine Without Contrast
+
+Diagnosis:
+Lumbar Radiculopathy
+
+Provider Notes:
+Patient has lower back pain for 10 weeks.
+
+Treatment History:
+Completed 8 weeks of physical therapy.

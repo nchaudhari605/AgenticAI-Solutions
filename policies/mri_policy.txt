@@ -1,0 +1,31 @@
+MRI Lumbar Spine Policy
+
+Approval Criteria:
+
+1. Patient must have lower back pain lasting greater than 6 weeks.
+
+2. One of the following diagnosis:
+   - Radiculopathy
+   - Neurological deficit
+   - Suspected disc herniation
+   - Lumbar Radiculopathy
+
+3. Conservative treatment history attempted:
+   - Physical therapy
+   - Medication management
+
+4. Clinical documentation must include:
+   - Diagnosis
+   - Provider notes
+   - Treatment history
+
+Decision Rules:
+
+If all criteria are met:
+Recommendation = APPROVE
+
+If documentation is incomplete:
+Recommendation = PEND
+
+If criteria are not met:
+Recommendation = DENY

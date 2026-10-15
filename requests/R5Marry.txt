@@ -1,0 +1,21 @@
+Prior Authorization Request
+
+Patient Name: Mary Wilson
+DOB: 02/20/1982
+Member ID: HP87654321
+
+Provider Name: Dr. Micheal
+Provider Email: Micheal@gmail.com
+Provider Phone: 555-666-7777
+
+Requested Service:
+MRI Lumbar Spine Without Contrast
+
+Diagnosis:
+Lower back pain
+
+Provider Notes:
+
+
+Treatment History:
+
